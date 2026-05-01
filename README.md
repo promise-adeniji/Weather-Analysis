@@ -1,5 +1,7 @@
 
 Weather Analysis
+
+
 📌 Project Overview
 This project performs a full Exploratory Data Analysis (EDA) on an hourly weather dataset for the city of Winnipeg, Canada, covering the entire year of 2012. Using Python and Pandas, the project answers 15 analytical questions that progressively build in complexity — from basic data inspection to conditional multi-filter queries.
 This project demonstrates practical proficiency in data wrangling, querying, grouping, aggregation, and descriptive statistics — core skills for any data analyst or data scientist role.
